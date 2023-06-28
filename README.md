@@ -13,4 +13,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hanif0" alt="Stats" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=0hanif0&show_icons=true" alt="Stats" align="center" />
 
-<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GIF" />
+<img align="center" src="https://raw.githubusercontent.com/0hanif0/0hanif0/master/github-user-contribution.svg" alt="GIF" />
+
